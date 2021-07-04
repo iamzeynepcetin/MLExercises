@@ -1,8 +1,8 @@
 # MLExercises Index
 
-##Prediction to the relationship between advertising and sales.(Linear Regression)
+## Prediction to the relationship between advertising and sales.(Linear Regression)
 
-**Project Code :**
+**Project Code :**Cancel changes
 advertising.py
 
 **Project Data:**
