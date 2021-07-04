@@ -105,7 +105,14 @@ dtype: float64
 print('Sales=' + str('%.4f' % model.params[0]) + ' + TV' + '*' + str('%.4f ' % model.params[1]))
 #Sales=7.0326 + TV*0.0475 
  
-#model.predict(X)[30, 40, 50]
+print(model.predict(X)[[5, 90]])
+
+'''
+'''
+5      7.446162
+90    13.416764
+dtype: float64
+ '''
 
 
 
