@@ -1,3 +1,9 @@
+**Note: Jupyter notebook to html convert**
+
+jupyter nbconvert --to html mynotebook.ipynb
+
+Link : https://github.com/jupyter/nbconvert
+
 # MLExercises Index
 
 ## Linear Regression - Prediction to the relationship between advertising and sales with one variables.
@@ -15,3 +21,5 @@ advertisingmultiple.py
 
 **Project Data:**
 Advertising.csv
+
+
