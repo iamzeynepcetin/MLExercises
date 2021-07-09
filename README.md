@@ -1,6 +1,7 @@
 **Note: Jupyter notebook to html convert**
 
 jupyter nbconvert --to html mynotebook.ipynb
+
 Link : https://github.com/jupyter/nbconvert
 
 # MLExercises Index
