@@ -17,4 +17,5 @@ advertisingmultiple.py
 Advertising.csv
 
 **Note: Jupyter notebook to html convert**
+
 jupyter nbconvert --to html mynotebook.ipynb
